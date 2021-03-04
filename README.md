@@ -6,7 +6,9 @@
 
 📚 My professional interests include sustainable open source, cloud infrastructure and automation, SRE, software performance, and SaaS.
 
-🌳 In my spare time I like to be outside - hiking, surfing, swimming, or [carving](https://carverskateboards.com/).
+🏞️ In my spare time I like to be outside - hiking, surfing, swimming, or [carving](https://carverskateboards.com/).
+
+🌳 If my open source work has saved you some time or made your job easier, consider [planting a tree](https://github.com/artilleryio/artillery#plant-some-trees) to say thanks and for good karma.
 
 <!--
 **hassy/hassy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
