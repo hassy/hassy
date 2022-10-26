@@ -1,12 +1,12 @@
 ### Hi, I'm Hassy.
 
-🛠️ I am the lead developer of [Artillery](https://artillery.io). Artillery's mission is to help dev teams run fast and reliable systems. Happy users and silent PagerDuty alarms, what could be better?!
+🛠️ I am the founder of [Artillery](https://artillery.io). Our mission is to help improve performance & reliability of the world's software. We are a small remote-first team and [we're hiring](https://www.artillery.io/careers).
 
-👩‍💻 **Join us!** [We're hiring](https://www.artillery.io/careers).
+You can read more about what we're doing in my blog post on [the future of tooling for SRE & production engineering](https://www.blitz.st/posts/next-stage-of-sre-tooling).
 
 📚 My professional interests include sustainable open source, cloud infrastructure and automation, SRE, software performance, and SaaS.
 
-🏞️ In my spare time I like to be outside - hiking, surfing, swimming, or [carving](https://carverskateboards.com/).
+🏞️ In my spare time I like to be outside - hiking, surfing, swimming, or [carving](https://carverskateboards.com/). But with a toddler at home there's not much spare time these days. :)
 
 🌳 If my open source work has saved you some time or made your job easier, consider [planting a tree](https://ecologi.com/artilleryio) to say thanks and for good karma.
 
