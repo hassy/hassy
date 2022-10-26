@@ -2,7 +2,7 @@
 
 🛠️ I am the lead developer of [Artillery](https://artillery.io). Artillery's mission is to help dev teams run fast and reliable systems. Happy users and silent PagerDuty alarms, what could be better?!
 
-👩‍💻 **Join us!** [We're hiring](https://www.artillery.io/blog/artillery-hiring-product-engineers).
+👩‍💻 **Join us!** [We're hiring](https://www.artillery.io/careers).
 
 📚 My professional interests include sustainable open source, cloud infrastructure and automation, SRE, software performance, and SaaS.
 
