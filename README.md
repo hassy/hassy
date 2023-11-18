@@ -6,7 +6,7 @@ You can read more about what we're doing in my blog post on [the future of tooli
 
 📚 My professional interests include sustainable open source, cloud infrastructure and automation, SRE, software performance, and SaaS.
 
-🏞️ In my spare time I like to be outside - hiking, surfing, swimming, or [carving](https://carverskateboards.com/). But with a toddler at home there's not much spare time these days. :)
+🏞️ In my spare time I like to be outside - hiking, surfing, swimming, or [carving](https://carverskateboards.com/). But with a toddler and a new baby at home there's not much spare time these days. :)
 
 🌳 If my open source work has saved you some time or made your job easier, consider [planting a tree](https://ecologi.com/artilleryio) to say thanks and for good karma.
 
