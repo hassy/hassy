@@ -1,6 +1,6 @@
 ### Hi, I'm Hassy.
 
-🛠️ I am the founder of [Artillery](https://artillery.io). Our mission is to help improve performance & reliability of the world's software. We are a small remote-first team and [we're hiring](https://www.artillery.io/careers).
+I started working on [artilleryio/artillery](https://github.com/artilleryio/artillery) back in 2015, and then started a company around it in 2021. Our mission is to help improve performance & reliability of the world's software.
 
 You can read more about what we're doing in my blog post on [the future of tooling for SRE & production engineering](https://www.blitz.st/posts/next-stage-of-sre-tooling).
 
